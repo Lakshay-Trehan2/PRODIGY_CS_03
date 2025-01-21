@@ -6,7 +6,7 @@ The Advanced Password Strength Meter is a powerful and intuitive tool designed t
 
 # 🚀 Features
 
-🔄** Day/Night Mode:** Switch between light and dark themes for a comfortable user experience.
+🔄 **Day/Night Mode:** Switch between light and dark themes for a comfortable user experience.
 
 🔎 **Real-time Analysis:** Instantly evaluates password strength as you type.
 
