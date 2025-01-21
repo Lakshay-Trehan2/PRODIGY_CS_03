@@ -1,5 +1,8 @@
 # 🔐 Advanced Password Strength Meter
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-2.0.0-green.svg) 
+
 # 🌟 Description
 
 The Advanced Password Strength Meter is a powerful and intuitive tool designed to assess the strength of passwords using advanced security metrics. It provides real-time feedback on password security, entropy, brute force resistance, and character composition, helping users create stronger and more secure passwords.
